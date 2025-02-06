@@ -1,4 +1,4 @@
-# HW03
+# HW03 - Completed
 
 Some exercises with audio files and sample arrays.
 
